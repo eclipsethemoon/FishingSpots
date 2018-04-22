@@ -1,0 +1,42 @@
+var MarinaData = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.74003493785858,
+          30.149803097371908
+        ]
+      },
+      "properties": {
+        "name": "Lake Catherine Island Marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.74041312932968,
+          30.16612994741085
+        ]
+      },
+      "properties": {
+        "name": "Pelican Pointe Marina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.72633689641953,
+          30.175757810857988
+        ]
+      },
+      "properties": {"name": "The Regolets Marina"}
+    }
+  ]
+}
